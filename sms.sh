@@ -1,1 +1,1 @@
-{"SendMessage":"02","MyMessage":"Ninguém perde por dar amor. Perde quem não sabe receber."}
+{"SendMessage":"03","MyMessage":"Queira o bem. Faça o bem. O resto vem."}
