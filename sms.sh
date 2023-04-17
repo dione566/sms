@@ -1,1 +1,1 @@
-{"SendMessage":"05","MyMessage":"Queira o bem. Faça o bem. O resto vem."}
+{"SendMessage":"06","MyMessage":"Seja um incentivador. O mundo já tem críticos demais."}
