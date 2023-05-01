@@ -1,1 +1,1 @@
-{"SendMessage":"11","MyMessage":"Seja um incentivador. O mundo já tem críticos demais."}
+{"SendMessage":"12","MyMessage":"Se for pra desistir, desista de ser fraco."}
